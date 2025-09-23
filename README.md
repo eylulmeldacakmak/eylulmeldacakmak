@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Eylül Melda!
 
-I'm a Software Engineering student exploring the world of programming and development, learning new technologies, and growing as a developer.
+I'm a Software Engineering student learning new technologies and growing as a developer.
 
 ---
 
 ### 🎓 About Me
 
 - 💻 I’ve been learning Python, C, and Java
-- 📫 Reach me at: eylulmeldacakmak@posta.mu.edu.tr
+- 📫 You can reach me at: eylulmeldacakmak@posta.mu.edu.tr
 
 ---
 
@@ -21,4 +21,4 @@ I'm a Software Engineering student exploring the world of programming and develo
 
 ---
 
-Thanks for visiting my profile!
+Thanks for visiting.
